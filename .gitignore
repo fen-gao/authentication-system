@@ -43,4 +43,4 @@ coverage/
 
 # others
 *.gz
-*.tgz
+*.tgznode_modules/
